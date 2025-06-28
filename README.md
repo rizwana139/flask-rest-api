@@ -14,7 +14,7 @@ To understand REST API development fundamentals using Flask by managing user dat
 
 All API routes were tested using Postman
 
-Screenshots of test results are included in FlaskAPI_PostmanTests_Results PDF
+Screenshots of test results are included in **FlaskAPI_PostmanTests_Results PDF**
 
 ## Outcome
 ✓Understood REST principles
